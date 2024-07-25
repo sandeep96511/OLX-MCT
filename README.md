@@ -2,7 +2,7 @@
 
 This repository contains the source code for the landing page of OLX.in, an online marketplace for buying and selling goods and services.
 
-- [https://sandeep96511.github.io/OLX-MCT/](#Hosted link)
+-[Hosted link](https://sandeep96511.github.io/OLX-MCT/)
 
 ## Overview
 
